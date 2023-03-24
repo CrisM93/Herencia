@@ -5,6 +5,7 @@ package herencia;
  * @author crizt
  */
 public class Consultor extends Persona {
+    //Class Consultor
 
     String nombre_consultor;
     int num_consultor;
