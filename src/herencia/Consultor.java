@@ -5,7 +5,7 @@ package herencia;
  * @author crizt
  */
 public class Consultor extends Persona {
-    //Class Consultor
+    //Class Consultor que hereda de Persona ejemplo completo
 
     String nombre_consultor;
     int num_consultor;
@@ -35,5 +35,4 @@ public class Consultor extends Persona {
     public void setNum_consultor(int num_consultor) {
         this.num_consultor = num_consultor;
     }
-
 }
