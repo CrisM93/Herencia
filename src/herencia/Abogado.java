@@ -1,12 +1,12 @@
-
 package herencia;
 
 /**
  *
  * @author crizt
  */
-public class Abogado extends Persona{
+public class Abogado extends Persona {
 
+    String ine;
     public Abogado() {
     }
 
@@ -61,7 +61,5 @@ public class Abogado extends Persona{
     public void setTelefono(String telefono) {
         this.telefono = telefono;
     }
-     
-    
-    
+
 }
